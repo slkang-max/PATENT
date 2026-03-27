@@ -36,7 +36,7 @@ jobs:
                   )
                   page = await context.new_page()
                   
-                  url = 'https://technical-strategy-team.streamlit.app/' 
+                  url = 'https://dashboard-seri.streamlit.app/' 
                   print(f"접속 시도: {url}")
                   
                   try:
